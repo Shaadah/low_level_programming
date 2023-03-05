@@ -2,7 +2,7 @@
 
 
 /**
-* main - Prints first 50 Fibonacci numbers, starting with 1 and separated by a comma followed by a space
+* main - Prints first 50 Fibonacci numbers
 * Return: Always 0.
 */
 	int main(void)
